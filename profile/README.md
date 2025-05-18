@@ -1,12 +1,6 @@
-## Hi there 👋
+The MIND Lab's mission is to improve mental healthcare through early detection and personalized treatment of psychiatric illness. By leveraging multimodal data and advanced machine learning, our research aims to parse the heterogeneity within and across psychiatric disorders, uncovering the neural and behavioral mechanisms that drive individual differences. Through this work, we seek to enable more accurate prediction, targeted interventions, and better outcomes for individuals at risk for or living with neuropsychiatric conditions.
 
-<!--
+[Dr. Shalaila S. Haas](https://mindlabresearch.com/team/haas) serves as the lab director and the lead project manager of [PREDiCOR](https://impact-mh.org/awardees/predictor/), a NIMH-funded U01 study that aims to develop individualized clinical signatures for predicting key mental health outcomes—such as treatment disengagement, ER visits, and hospitalizations—by analyzing behavioral data from clinical interviews, electronic health records (EHR), and smartphones in young, help-seeking individuals. Using deep learning, contextual bandit models, and natural language processing, the study leverages multimodal data to enhance prognostic accuracy and support equitable, real-time decision-making in psychiatry.
 
-**Here are some ideas to get you started:**
+To put findings into practice, Dr. Haas co-directs the [Translational Neuroimaging](https://www.translational-neuro.org/about-us) educational program, an international initiative focused on disseminating state-of-the-art computational and neuroimaging tools to researchers at all career stages. In this role, she helps lead efforts to democratize access to advanced methods in brain research, fostering a collaborative and interdisciplinary community dedicated to accelerating progress in mental health science.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
